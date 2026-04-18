@@ -1,0 +1,150 @@
+division,district,location,latitude,longitude,visited_km
+Barishal,Barisal,Barisal_Sadar,22.710,90.376,
+Barishal,Barisal,Barisal_Sadar,22.701300,90.374900,
+Barishal,Barisal,Barisal_Sadar,22.680,90.3666,
+Barishal,Barisal,Barisal_Sadar,22.703500,90.371000,
+Barishal,Barisal,Barisal_Sadar,22.701200,90.356620,7.64
+Barishal,Patuakhali,Dhaka-Kuakata Highway,21.829,90.122,
+Barishal,Patuakhali,Dhaka-Kuakata Highway,21.857,90.125,
+Barishal,Patuakhali,Dhaka-Kuakata Highway,21.864,90.126,
+Barishal,Patuakhali,Dhaka-Kuakata Highway,21.892,90.139,
+Barishal,Patuakhali,Dhaka-Kuakata Highway,21.9001,90.1412,
+Barishal,Patuakhali,Dhaka-Kuakata Highway,21.9228,90.1559,
+Barishal,Patuakhali,Dhaka-Kuakata Highway,21.923,90.156,
+Barishal,Patuakhali,Dhaka-Kuakata Highway,21.9507,90.1794,
+Barishal,Patuakhali,Dhaka-Kuakata Highway,21.963,90.196,
+Barishal,Patuakhali,Dhaka-Kuakata Highway,21.979,90.216,
+Barishal,Patuakhali,Dhaka-Kuakata Highway,21.988,90.219,
+Barishal,Patuakhali,Dhaka-Kuakata Highway,22.26,90.326,
+Barishal,Patuakhali,Dhaka-Kuakata Highway,22.319,90.326,
+Barishal,Patuakhali,Dhaka-Kuakata Highway,22.464,90.381,
+Barishal,Patuakhali,Dhaka-Kuakata Highway,22.465,90.381,
+Barishal,Patuakhali,Dhaka-Kuakata Highway,22.65,90.362,
+Barishal,Patuakhali,Dhaka-Kuakata Highway,22.661,90.361,98.92
+Barishal,Patuakhali,Dumki,22.4643000,90.3806000,4.84
+Chattagram,Cox's Bazar,Marine Drive,21.391100,92.001600,
+Chattagram,Cox's Bazar,Marine Drive,21.389800,92.002200,2.33
+Dhaka,Dhaka City,Aftabnagar,23.766600,90.427900,
+Dhaka,Dhaka City,Badda,23.776100,90.423100,
+Dhaka,Dhaka City,Banasree,23.766806,90.424194,
+Dhaka,Dhaka City,Bangla_Motor,23.745900,90.395200,
+Dhaka,Dhaka City,Baridhara,23.815389,90.421111,
+Dhaka,Dhaka City,Bashabo,23.750306,90.425306,
+Dhaka,Dhaka City,Demra,23.708300,90.441700,
+Dhaka,Dhaka City,Gulistan,23.722800,90.414000,
+Dhaka,Dhaka City,Hatirjheel,23.76470,90.40020,
+Dhaka,Dhaka City,Kakraill,23.739389,90.401889,
+Dhaka,Dhaka City,Kamalapur,23.72980,90.42860,
+Dhaka,Dhaka City,Khilgaon,23.74170,90.42690,
+Dhaka,Dhaka City,Mog_Bazar,23.748194,90.402389,
+Dhaka,Dhaka City,Mohammadpur,23.756556,90.358861,
+Dhaka,Dhaka City,Purbachal,23.834003,90.484481,
+Dhaka,Dhaka City,Sadarghat,23.706800,90.408000,
+Dhaka,Dhaka City,Shahbag,23.739500,90.396000,
+Dhaka,Dhaka City,Tejgaon,23.759806,90.399194,
+Dhaka,Dhaka City,Tejgaon,23.764694,90.400194,
+Dhaka,Dhaka City,Wari,23.71790,90.41910,92.42
+Dhaka,Faridpur,Boalmari,23.303900,89.731000,
+Dhaka,Faridpur,Boalmari,23.304500,89.729000,
+Dhaka,Faridpur,Boalmari,23.300000,89.740100,7.72
+Dhaka,Faridpur,Saltha,23.680100,89.769000,
+Dhaka,Faridpur,Saltha,23.581500,89.840800,
+Dhaka,Faridpur,Saltha,23.507700,89.881100,22.36
+Dhaka,Gopalganj,Gopalganj_Sadar,23.008269,89.827497,
+Dhaka,Gopalganj,Gopalganj_Sadar,23.006000,89.833000,
+Dhaka,Gopalganj,Gopalganj_Sadar,23.005900,89.829900,2.25
+Dhaka,Gopalganj,Tungipara,22.8858,89.8983,
+Dhaka,Gopalganj,Tungipara,22.9428,89.8311,9.36
+Dhaka,Munshiganj,Mawa,23.474100,90.265200,
+Dhaka,Shariatpur,Jajira,23.328900,90.319600,
+Dhaka,Shariatpur,Jajira,23.329500,90.293500,
+Dhaka,Shariatpur,Jajira,23.401800,90.261800,
+Dhaka,Shariatpur,Jajira,23.333420,90.311720,
+Dhaka,Shariatpur,Jajira,23.515306,90.278611,
+Dhaka,Shariatpur,Jajira,23.327905,90.305681,
+Dhaka,Shariatpur,Jajira,23.327600,90.302700,
+Dhaka,Shariatpur,Jajira,23.322400,90.322900,
+Dhaka,Shariatpur,Jajira,23.324900,90.321400,65.13
+Dhaka,Shariatpur,Palong,23.2606000,90.3487000,
+Dhaka,Shariatpur,Palong,23.206500,90.346100,
+Dhaka,Shariatpur,Palong,23.206500,90.346610,6.05
+Dhaka,Tangail,Tangail_Sadar,24.245000,89.910600,
+Dhaka,Tangail,Tangail_Sadar,24.234800,89.874100,
+Dhaka,Tangail,Tangail_Sadar,24.210400,89.876700,
+Dhaka,Tangail,Tangail_Sadar,24.178100,89.902100,
+Dhaka,Tangail,Tangail_Sadar,24.195100,89.899800,12.92
+Khulna,Bagherhat,Chitalmari,22.826300,89.938700,
+Khulna,Bagherhat,Chitalmari,22.802700,89.901400,4.64
+Khulna,Bagherhat,Khulna-Mongla Highway,22.574500,89.615600,
+Khulna,Bagherhat,Khulna-Mongla Highway,22.558500,89.597900,
+Khulna,Bagherhat,Khulna-Mongla Highway,22.481500,89.591800,
+Khulna,Bagherhat,Khulna-Mongla Highway,22.572600,89.613200,21.49
+Khulna,Jashore,Jhikargacha,23.099600,89.108100,
+Khulna,Jashore,Sharsha,23.281900,89.156100,
+Khulna,Jashore,Sharsha,23.279200,89.157000,
+Khulna,Jashore,Sharsha,23.243800,89.167300,
+Khulna,Jashore,Sharsha,23.186200,89.186100,
+Khulna,Jashore,Sharsha,23.191300,89.183800,
+Khulna,Jashore,Sharsha,23.267900,89.160800,
+Khulna,Jashore,Sharsha,23.304600,89.151600,
+Khulna,Jashore,Sharsha,23.312000,89.148600,
+Khulna,Jashore,Sharsha,23.330000,89.144000,
+Khulna,Jashore,Sharsha,23.365500,89.141500,41.10
+Khulna,Jhenaidah,Harinakunda,23.541800,89.223000,
+Khulna,Jhenaidah,Jhenaidah_Sadar,23.550100,89.169200,
+Khulna,Jhenaidah,Jhenaidah_Sadar,23.501800,89.160900,
+Khulna,Jhenaidah,Jhenaidah_Sadar,23.545100,89.165500,
+Khulna,Jhenaidah,Jhenaidah_Sadar,23.551200,89.170700,11.14
+Khulna,Jhenaidah,Kaliganj,23.466300,89.141400,
+Khulna,Jhenaidah,Kaliganj,23.455600,89.140600,
+Khulna,Jhenaidah,Kaliganj,23.335700,89.142900,
+Khulna,Jhenaidah,Kaliganj,23.313600,89.148100,17.04
+Khulna,Khulna,Khulna_Sadar,22.974500,89.474300,
+Khulna,Kustia,Kumarkhali,23.767100,89.118000,
+Khulna,Kustia,Kumarkhali,23.758900,89.121100,
+Khulna,Kustia,Kumarkhali,23.755700,89.122900,
+Khulna,Kustia,Kumarkhali,23.737100,89.136000,
+Khulna,Kustia,Kumarkhali,23.721700,89.154700,
+Khulna,Kustia,Kumarkhali,23.737000,89.136200,
+Khulna,Kustia,Kumarkhali,23.728300,89.151700,
+Khulna,Kustia,Kumarkhali,23.738572,89.133381,12.96
+Khulna,Magura,Magura_Sadar,23.512900,89.327700,
+Khulna,Narail,Kalia,23.089500,89.456500,
+Khulna,Narail,Narail_Sadar,23.089500,89.456500,
+Khulna,Narail,Narail_Sadar,23.050800,89.444500,4.47
+Mymensingh,Mymensingh,Gouripur,24.810300,90.514300,
+Mymensingh,Mymensingh,Mymensingh_Sadar,24.760200,90.443000,
+Mymensingh,Netrokona,Durgapur,25.118100,90.665700,
+Mymensingh,Netrokona,Durgapur,25.166500,90.656700,5.46
+Mymensingh,Netrokona,Kalmakanda,25.067900,90.882600,
+Mymensingh,Netrokona,Kalmakanda,25.154410,90.915200,
+Mymensingh,Netrokona,Kalmakanda,25.154100,90.915200,10.20
+Mymensingh,Netrokona,Kendua,24.909000,90.801000,
+Rajshahi,Bogura,Sherpur,24.861100,89.325800,
+Rajshahi,Bogura,Sherpur,24.861300,89.333800,2.20
+Rajshahi,Naogaon,Naogaon_Sadar,24.8285,88.9377,
+Rajshahi,Naogaon,Naogaon_Sadar,24.8060,88.9423,
+Rajshahi,Naogaon,Naogaon_Sadar,24.8135,88.9448,
+Rajshahi,Naogaon,Naogaon_Sadar,24.8311,88.9363,5.55
+Rajshahi,Naogaon,Patnitala,24.7504,88.8161,
+Rajshahi,Naogaon,Patnitala,24.7664,88.7919,
+Rajshahi,Naogaon,Patnitala,24.7731,88.7076,11.57
+Rajshahi,Naogaon,Sapahar,24.410300,88.609000,
+Rajshahi,Natore,Bagatipara,24.419600,88.991000,
+Rajshahi,Pabna,Bera,24.391200,89.034900,
+Rajshahi,Pabna,Sujanagar,24.292200,89.081200,
+Rajshahi,Pabna,Sujanagar,24.237600,89.111000,
+Rajshahi,Pabna,Sujanagar,24.189400,89.137700,
+Rajshahi,Pabna,Sujanagar,24.172900,89.138400,
+Rajshahi,Pabna,Sujanagar,24.162500,89.140100,
+Rajshahi,Pabna,Sujanagar,24.159400,89.138700,
+Rajshahi,Pabna,Sujanagar,24.130500,89.130500,
+Rajshahi,Pabna,Sujanagar,24.112200,89.118000,
+Rajshahi,Pabna,Sujanagar,24.083000,89.081400,26.82
+Rajshahi,Rajshahi,Rajshahi_Sadar,24.375800,88.630300,
+Rajshahi,Rajshahi,Rajshahi_Sadar,24.363294,88.576744,5.35
+Rajshahi,Sirajganj,Sirajganj_Sadar,24.450100,89.721100,
+Rajshahi,Sirajganj,Sirajganj_Sadar,24.446100,89.728300,
+Rajshahi,Sirajganj,Sirajganj_Sadar,24.481700,89.696500,
+Rajshahi,Sirajganj,Sirajganj_Sadar,24.460900,89.708400,8.56
+Sylhet,Moulovibazar,Sreemangal,24.3065,91.7347,2.23
