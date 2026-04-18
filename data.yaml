@@ -1,0 +1,18 @@
+# Bangladesh Pothole Detection Dataset — YOLO Configuration
+# Dataset: https://roboflow.com/[your-project-url]
+# Coverage: 7 Divisions of Bangladesh | 538.38 km | 4,314 images | 6,183 potholes
+
+path: ./annotations      # dataset root dir
+train: train/images       # train images (relative to 'path')
+val: valid/images         # val images (relative to 'path')
+test: test/images         # test images (optional)
+
+# Classes
+nc: 1                     # number of classes
+names:
+  - pothole               # class names
+
+# Dataset Info
+# Total Images : 4,314
+# Total Potholes: 6,183
+# Divisions    : Barishal, Chattagram, Dhaka, Khulna, Mymensingh, Rajshahi, Sylhet
