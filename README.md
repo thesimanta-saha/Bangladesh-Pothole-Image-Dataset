@@ -11,8 +11,7 @@
 
 **A large-scale, real-world pothole image dataset collected across 7 divisions of Bangladesh, annotated via Roboflow for road condition monitoring and AI-based pothole detection research.**
 
-[📊 Dataset Stats](#-dataset-statistics) • [📍 Data Collection Locations](#-data-collection-locations) • [🗂️ Dataset Structure](#️-dataset-structure) • [🚀 Getting Started](#-getting-started) • [📄 Citation](#-citation)
-
+[📊 Dataset Stats](#-dataset-statistics) • [📍 Data Collection Locations](#-data-collection-locations) • [🗂️ Dataset Structure](#️-dataset-structure) 
 </div>
 
 ---
@@ -303,34 +302,6 @@ bangladesh-pothole-detection/
 
 ---
 
-## 🚀 Getting Started
-
-### Access via Roboflow
-
-```python
-from roboflow import Roboflow
-
-rf = Roboflow(api_key="YOUR_API_KEY")
-project = rf.workspace("YOUR_WORKSPACE").project("bangladesh-pothole-detection")
-dataset = project.version(1).download("yolov8")
-```
-
-### Train with YOLOv8
-
-```python
-from ultralytics import YOLO
-
-model = YOLO("yolov8n.pt")
-model.train(data="data.yaml", epochs=100, imgsz=640)
-```
-
-### Requirements
-
-```bash
-pip install roboflow ultralytics opencv-python
-```
-
----
 
 ## 📋 Annotation Details
 
@@ -338,7 +309,7 @@ pip install roboflow ultralytics opencv-python
 - **Annotation Type:** Bounding Box (Object Detection)
 - **Class:** `pothole`
 - **Images per label:** 1 to 7 potholes per image
-- **Export formats available:** YOLOv8, COCO JSON, Pascal VOC, TFRecord, CreateML
+- **Export formats available:** JSON, TXT, XMAL, CSV  and others.
 
 ---
 
@@ -358,37 +329,11 @@ Data was collected across the following 7 divisions of Bangladesh:
 
 ---
 
-## 📄 Citation
 
-If you use this dataset in your research, please cite:
-
-```bibtex
-@dataset{bangladesh_pothole_2024,
-  title     = {Bangladesh Pothole Detection Dataset},
-  author    = {[Your Name / Team Name]},
-  year      = {2024},
-  publisher = {Roboflow},
-  url       = {https://roboflow.com/[your-project-url]},
-  note      = {Collected across 7 divisions of Bangladesh, 538.38 km road coverage}
-}
-```
-
----
 
 ## 📜 License
 
 This dataset is released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
 You are free to share and adapt the material for any purpose, provided appropriate credit is given.
 
----
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-Feel free to open an issue or submit a pull request.
-
----
-
-<div align="center">
-Made with ❤️ for road safety research in Bangladesh
-</div>
